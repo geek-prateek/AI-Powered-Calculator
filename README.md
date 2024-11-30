@@ -2,7 +2,7 @@
 
 A React + TypeScript application that allows users to draw mathematical expressions on a canvas, which are processed and solved using AI through the Gemini API.
 
-![AI-Powered Calculator](https://github.com/user-attachments/assets/7d748867-8c1a-4679-9999-0b8996b407f0)
+https://github.com/user-attachments/assets/7d748867-8c1a-4679-9999-0b8996b407f0
 
 ---
 
